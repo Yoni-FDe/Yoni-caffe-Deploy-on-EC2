@@ -1,0 +1,19 @@
+{
+  "name": "Yoni's caffe oder online",
+  "version": "1.0.0",
+  "description": "A Node.js application deployed on AWS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["nodejs", "express", "AWS", "evangadi"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
